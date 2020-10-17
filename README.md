@@ -1,1 +1,4 @@
-# facial-recognition
+# 透過画像の合成
+transparent_image.pyは透過画像を作り出し、もう一つの画像と合成させるプログラムです。
+
+このブランチにあるemotions.pyを使用すると、透過画像で表情イメージが出力されます。
